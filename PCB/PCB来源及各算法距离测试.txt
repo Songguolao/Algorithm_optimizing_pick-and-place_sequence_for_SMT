@@ -1,0 +1,30 @@
+1.hdmi：https://oshwhub.com/zhuyshuang/3-8-cun-hdmi-xian-shi-qi			143个元件   47种类型	尺寸52mm*93mm
+2.SDR：https://oshwhub.com/sademabulasiji/ji-yu-MSI001he-MSI2500de-SDR	125个元件	15种类型	尺寸95mm*72mm
+3.M01：https://oshwhub.com/zhqsoft/mi-ni-lan-ya-gong-fang-m01			105个元件	48种类型	尺寸43*45mm
+4.humi_temp：https://oshwhub.com/yangqingxiang/ji-yu-tu-ya-zhi-neng-di-wen-shi-du-ji-1081270a	37个元件	21种类型	尺寸65*54	
+5.RTC:https://oshwhub.com/t-jupiter/rtc_5-ji-cheng-shua-ji-ban-ben-2	185个元件	39种类型	尺寸	尺寸70*51
+6.lai_luo：https://oshwhub.com/45coll/zi-ping-heng-di-lai-luo-san-jiao_10-10-ban-ben 	67个元件	42种类型	尺寸80*80
+
+MDFA测试hdmi：
+MCGA测试hdmi：
+ACGA测试hdmi：
+
+MDFA测试SDR：8942 
+MCGA测试SDR：8814 8668 
+ACGA测试SDR：8490 8281 8099
+
+MDFA测试M01：10050
+MCGA测试M01：9564 
+ACGA测试M01：9137 10300
+
+MDFA测试humi_temp: 2897 2927 2971
+MCGA测试humi_temp：3163 
+ACGA测试humi_temp：2834
+
+MDFA测试RTC：10560
+MCGA测试RTC：12030（6交叉） 10410（固定4交叉）
+ACGA测试RTC：9953 93300
+
+MDFA测试lai_luo
+MCGA测试lai_luo：7221 6988（固定4交叉）
+ACGA测试lai_luo：6666 
